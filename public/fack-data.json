@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Intel Core I9-11900K 8 Core 16 Thread 11th Gen Processor",
+    "img": "https://i.ibb.co/zV0ZQ4j/Intel-11th-Gen-Core-i9-11900-K-jpg-550x550.jpg",
+    "description": "This Intel Core I9-11900k Processor Comes With Intel Iris Xe Graphics 32 Graphics. This New 11th Gen Rocket Lake Microarchitecture Is Manufactured With The 14nm Process That Comes With Eight Cores And 16 Threads.",
+    "minimum": "1000",
+    "available": "20000",
+    "price": "50,000"
+  },
+  {
+    "name": "Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard",
+    "img": "https://i.ibb.co/hccgTXT/rog-maximus-z690-formula-01-jpg-550x550.jpg",
+    "description": "The Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard Supports Socket LGA1700 For 12th Gen Intel Core, Pentium Gold & Celeron Processors.",
+    "minimum": "500",
+    "available": "5000",
+    "price": "76,500"
+  },
+  {
+    "name": "G.SKILL Trident Z Neo 64GB (2 X 32GB) 3600MHz RGB DDR4 RAM",
+    "img": "https://i.ibb.co/gF1mx5W/asus-rog-claymore-ii-gaming-keyboard-1-png-550x550.png",
+    "description": "Engineered And Optimized For Full Compatibility On The Latest AMD Ryzen 3000 Series Processors On AMD X570 Chipset Motherboards.",
+    "minimum": "100",
+    "available": "15000",
+    "price": "32,000"
+  },
+  {
+    "name": "Asus ROG Claymore II Modular TKL Mechanical Gaming Keyboard (Red Switch)",
+    "img": "https://i.ibb.co/2hnhjp4/skill-trident-z-neo-64gb-2-x-32gb-3600mhz-3-jpg-550x550.jpg",
+    "description": "The ASUS ROG Claymore II Keyboard Delivers A Host Of Features Designed To Give You Exciting New Ways To Play.",
+    "minimum": "800",
+    "available": "30000",
+    "price": "21,000"
+  },
+  {
+    "name": "ASUS P704 ROG Chakram 2.4GHz RGB Wireless Gaming Mouse With Qi Charging",
+    "img": "https://i.ibb.co/B6KwHpv/asus-rog-chakram-rgb-wireless-mouse-jpg-550x550.jpg",
+    "description": "The ROG Chakram RGB Wireless Gaming Mouse From ASUS. Featuring A 100 To 16,000 Dpi Optical Sensor That Can Detect Movements At 400 Inches Per Second (IPS) And Five Programmable Buttons",
+    "minimum": "1000",
+    "available": "30000",
+    "price": "12,500"
+  },
+  {
+    "name": "Samsung Odyssey G9 49 Inch 32:9 240Hz Curved HDR NVIDIA G-SYNC QLED Gaming Monitor",
+    "img": "https://i.ibb.co/9gNMD6J/samsung-odyssey-g9-gaming-monitor-1-jpg-550x550.jpg",
+    "description": "The Samsung Odyssey G9 Gaming Monitor From Samsung Is The Futuristic Monitor Experience You've Been Looking For. With An Expansive 5120 X 1440 Resolution At A 32:9 Aspect Ratio, It's Essentially Two Ultrawide 1440p Monitors Stitched Together.",
+    "minimum": "100",
+    "available": "1000",
+    "price": "184,000"
+  }
+]
